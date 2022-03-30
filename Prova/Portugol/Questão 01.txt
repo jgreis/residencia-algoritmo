@@ -1,0 +1,3 @@
+Algoritmo pode ser considerado toda sequência lógica apresentada, como uma receita culinária ou os passos para atravessar a rua.
+Programas podem ser considerados a coleção de instruções que o computador irá realizar, sempre escritos em alguma linguagem de programação. Um bom exemplo são os chamados "códigos fonte", que são os arquivos onde são escritas essas instruções.
+
