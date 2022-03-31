@@ -5,4 +5,3 @@ Codigos feitos durante a matéria de Lógica de Programacão da Residência de S
 ### Linguagens
 
 - Portugol
-- Ruby 3.0.2
